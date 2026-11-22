@@ -1,0 +1,6 @@
+{
+  "name": "Buckshot Ruletka",
+  "description": "Kod orqali multiplayer Buckshot Ruletka, real vaqt ovozli chat, qimor garovlari, vizual effektlar, hisobot tizimi va peshqadamlar jadvali.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
